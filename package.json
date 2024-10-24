@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-GREEN_FARM_12/",
+    "build": "vite build --base=/html-css_112_Sviatoslav-lion/",
     "preview": "vite preview"
   },
   "devDependencies": {
